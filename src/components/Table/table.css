@@ -1,0 +1,13 @@
+.table th:hover{
+    cursor: pointer;;
+}
+.fa-sort{
+    color: grey;
+}
+.table{
+    border: 1px solid grey;
+   
+}
+.dark{
+    color: black;
+}
